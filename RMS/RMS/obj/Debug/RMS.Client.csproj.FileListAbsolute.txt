@@ -1,0 +1,8 @@
+C:\Work\RMS\RMS\RMS\bin\Debug\RMS.Client.exe.config
+C:\Work\RMS\RMS\RMS\bin\Debug\RMS.Client.exe
+C:\Work\RMS\RMS\RMS\bin\Debug\RMS.Client.pdb
+C:\Work\RMS\RMS\RMS\bin\Debug\RMS.Service.dll
+C:\Work\RMS\RMS\RMS\bin\Debug\RMS.Service.pdb
+C:\Work\RMS\RMS\RMS\obj\Debug\RMS.Client.csprojResolveAssemblyReference.cache
+C:\Work\RMS\RMS\RMS\obj\Debug\RMS.Client.exe
+C:\Work\RMS\RMS\RMS\obj\Debug\RMS.Client.pdb

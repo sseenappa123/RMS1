@@ -1,0 +1,9 @@
+C:\Work\RMS\RMS\RMS.Test\bin\Debug\RMS.Test.dll
+C:\Work\RMS\RMS\RMS.Test\bin\Debug\RMS.Test.pdb
+C:\Work\RMS\RMS\RMS.Test\obj\Debug\RMS.Test.csprojResolveAssemblyReference.cache
+C:\Work\RMS\RMS\RMS.Test\obj\Debug\RMS.Test.dll
+C:\Work\RMS\RMS\RMS.Test\obj\Debug\RMS.Test.pdb
+C:\Work\RMS\RMS\RMS.Test\bin\Debug\nunit.framework.dll
+C:\Work\RMS\RMS\RMS.Test\bin\Debug\RMS.Service.dll
+C:\Work\RMS\RMS\RMS.Test\bin\Debug\RMS.Service.pdb
+C:\Work\RMS\RMS\RMS.Test\bin\Debug\nunit.framework.xml

@@ -1,0 +1,2 @@
+C:\Work\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Work\RMS\RMS\RMS\bin\Debug\RMS.Client.exe.config

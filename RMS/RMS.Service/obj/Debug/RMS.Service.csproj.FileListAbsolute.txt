@@ -1,0 +1,4 @@
+C:\Work\RMS\RMS\RMS.Service\bin\Debug\RMS.Service.dll
+C:\Work\RMS\RMS\RMS.Service\bin\Debug\RMS.Service.pdb
+C:\Work\RMS\RMS\RMS.Service\obj\Debug\RMS.Service.dll
+C:\Work\RMS\RMS\RMS.Service\obj\Debug\RMS.Service.pdb
